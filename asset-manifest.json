@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keep-App-Clone-Reactjs/static/css/main.078929ee.chunk.css",
+    "main.js": "/keep-App-Clone-Reactjs/static/js/main.c6901445.chunk.js",
+    "main.js.map": "/keep-App-Clone-Reactjs/static/js/main.c6901445.chunk.js.map",
+    "runtime-main.js": "/keep-App-Clone-Reactjs/static/js/runtime-main.6c621590.js",
+    "runtime-main.js.map": "/keep-App-Clone-Reactjs/static/js/runtime-main.6c621590.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/keep-App-Clone-Reactjs/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.250f9106.chunk.js": "/keep-App-Clone-Reactjs/static/js/2.250f9106.chunk.js",
+    "static/js/2.250f9106.chunk.js.map": "/keep-App-Clone-Reactjs/static/js/2.250f9106.chunk.js.map",
+    "index.html": "/keep-App-Clone-Reactjs/index.html",
+    "precache-manifest.850b293a8da28d3ab2e25d34646718d9.js": "/keep-App-Clone-Reactjs/precache-manifest.850b293a8da28d3ab2e25d34646718d9.js",
+    "service-worker.js": "/keep-App-Clone-Reactjs/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/keep-App-Clone-Reactjs/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.078929ee.chunk.css.map": "/keep-App-Clone-Reactjs/static/css/main.078929ee.chunk.css.map",
+    "static/js/2.250f9106.chunk.js.LICENSE.txt": "/keep-App-Clone-Reactjs/static/js/2.250f9106.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c621590.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.250f9106.chunk.js",
+    "static/css/main.078929ee.chunk.css",
+    "static/js/main.c6901445.chunk.js"
+  ]
+}
